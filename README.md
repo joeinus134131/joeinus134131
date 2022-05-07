@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning AI, Machine learning, data science and Electronics Engineer
 
-- 📫 How to reach me **amadeagusandi446@gmail.com**
+- 📫 How to reach me **madeagusandi446@gmail.com**
 
 - ⚡ Fun fact :- i so happy for drawing my life
 
