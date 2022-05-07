@@ -56,11 +56,10 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=joeinus134131&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="joeinus134131" 
-    bg_color=#808080/></p>
+### Here's my github README stats:
+
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=joeinus134131&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeinus134131&theme=radical)](https://git.io/streak-stats)
 
 <br>
 
