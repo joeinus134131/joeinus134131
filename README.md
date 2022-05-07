@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@joeinus134131 
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-Pull requests
-19
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-github-profile-readme-templates/Adam-pw.md
-@Adam-pw
-Adam-pw Changes in my template
-Latest commit cf2f4a7 on Mar 10
- History
- 1 contributor
-106 lines (86 sloc)  6.81 KB
-   
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
@@ -133,15 +104,3 @@ Latest commit cf2f4a7 on Mar 10
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [Adam-pw](https://github.com/Adam-pw)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
