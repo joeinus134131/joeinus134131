@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=joeinus134131&label=Profile%20views&color=0e75b6&style=flat"
     alt="joeinus134131" /> 
   </p>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Engineering+Physics+Student+at+Institut+Teknologi+Sumatera;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Physics+Student+at+Institut+Teknologi+Sumatera;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joeinus134131" /></p>
