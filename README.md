@@ -84,4 +84,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Made Agus Andi Gunawan](https://github.com/joeinus134131w)
+[Made Agus Andi Gunawan](https://github.com/joeinus134131)
