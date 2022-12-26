@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joeinus134131" /></p>
 
 
-- 🌱 I’m currently learning AI, Machine learning, data science and Electronics Engineer
+- 🌱 I’m currently learning Artificial Intelligence (AI), Machine learning, Data Science, Web Developer, Embeded System and Electronics Engineer
 
 - 📫 How to reach me **madeagusandi446@gmail.com**
 
-- ⚡ Fun fact :- i so happy for drawing my life
+- ⚡ Fun fact :- *i like drawing, like memes, and Cat
 
 <br>
 
