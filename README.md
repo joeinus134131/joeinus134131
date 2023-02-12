@@ -55,7 +55,6 @@
     <a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a>
     <a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a>
     <a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
-    <a href="https://expressjs.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-icon.svg"></a>
 </p>
 
 <br>
