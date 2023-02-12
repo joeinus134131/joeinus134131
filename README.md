@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **madeagusandi446@gmail.com**
 
-- ⚡ Fun fact :- *i like drawing, like memes, and Cat
+- ⚡ Fun fact : i like drawing, like memes, and Cat
 
 <br>
 
