@@ -36,7 +36,10 @@
       alt="madeagusandi" height="30" width="40" /></a>
  <a href="https://www.threads.net/@madeagusandigunawan" target="blank"><img align="center"
       src="https://crystalpng.com/wp-content/uploads/2023/06/Threads-app-Logo.png"
-      alt="madeagusandigunawan" height="30" width="40" /></a>   
+      alt="madeagusandigunawan" height="30" width="40" /></a>
+    <a href="https://www.tiktok.com/@emisilab" target="blank"><img align="center"
+      src="https://banner2.cleanpng.com/20231123/xjc/transparent-tiktok-logo-black-and-white-logo-tiktok-app-minima-minimalist-black-and-white-tiktok-app-1711004158896.webp"
+      alt="emisilab" height="30" width="40" /></a>   
 </p>
 
 <br>
