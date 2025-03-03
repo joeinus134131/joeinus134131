@@ -32,9 +32,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="madeagusandigunawan" height="30" width="40" /></a>
  <a href="https://x.com/madeagusandi" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"
+      src="https://images.freeimages.com/image/large-previews/f35/x-twitter-logo-on-black-circle-5694247.png"
       alt="madeagusandi" height="30" width="40" /></a>
-    
+ <a href="https://www.threads.net/@madeagusandigunawan" target="blank"><img align="center"
+      src="https://crystalpng.com/wp-content/uploads/2023/06/Threads-app-Logo.png"
+      alt="madeagusandigunawan" height="30" width="40" /></a>   
 </p>
 
 <br>
