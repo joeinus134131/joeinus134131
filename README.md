@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Made Agus Andi Gunawan</h1>
+=<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Made Agus Andi Gunawan</h1>
 <h3 align="center">I'm Interesting about Science and Technology🌟.</h3>
 
 <br>
@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joeinus134131" /></p>
 
 
-- 🌱 I’m currently learning Artificial Intelligence (AI), Machine learning, Data Science, Web Developer, Embeded System and Electronics Engineer
+- 🌱 I’m currently learning Artificial Intelligence (AI), Machine learning, Data Science, Web Developer, Embedded System, and Electronics Engineer
 
 - 📫 How to reach me **madeagusandi446@gmail.com**
 
-- ⚡ Fun fact : i like drawing, like memes, and Cat
+- ⚡ Fun fact: I like drawing, like memes, and cats
 
 <br>
 
@@ -56,6 +56,7 @@
     <a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a>
     <a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a>
     <a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
+    <a href="https://go.dev/" target="_blank"><img height="30" src="https://go.dev/images/go-logo-white.svg"></a>
 </p>
 
 <br>
