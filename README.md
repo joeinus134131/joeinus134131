@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Engineer+%26+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50&color=0e75b6&vCenter=true&pause=1000" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Engineer+%26+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Aspiring+Developer;Always+learning+new+things" />
   </a>
 </p>
 
 <br>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joeinus134131" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="joeinus134131" width="300" />
 
 ### 👨‍💻 About Me
 
@@ -86,22 +86,25 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=joeinus134131&theme=cobalt&show_icons=true&count_private=true&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeinus134131&theme=cobalt&hide_border=true&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![joeinus134131 GitHub stats](https://github-readme-stats.vercel.app/api?username=joeinus134131&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeinus134131&theme=cobalt&hide_border=true&layout=compact&langs_count=10)
+
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joeinus134131&theme=cobalt&hide_border=true" height="150" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeinus134131&theme=cobalt&hide_border=true" />
-</p>
+</div>
 
 ---
 
