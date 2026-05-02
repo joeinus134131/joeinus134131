@@ -16,17 +16,17 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="joeinus134131" width="300" />
 
-### 👨‍💻 About Me
+### About Me
 
-- 🌱 Currently learning **Artificial Intelligence (AI)**, **Machine Learning**, **Data Science**, **Web Development**, **Embedded Systems**, and **Electronics Engineering**
-- 📫 Reach me at **madeagusandi446@gmail.com**
-- ⚡ Fun fact: I like drawing, memes, and cats 🐱
+- Currently learning **Artificial Intelligence (AI)**, **Machine Learning**, **Data Science**, **Web Development**, **Embedded Systems**, and **Electronics Engineering**
+- Reach me at **madeagusandi446@gmail.com**
+- Fun fact: I like drawing, memes, and cats
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/madeagusandigunawan/" target="blank">
@@ -51,9 +51,9 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Languages & Tools
+## Languages and Tools
 
-### 🖥️ Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -62,21 +62,21 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🤖 AI / ML & Data Science
+### AI / ML and Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-### 🛠️ Tools
+### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -84,30 +84,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joeinus134131&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeinus134131&theme=cobalt&hide_border=true&layout=compact&langs_count=8" />
-
+  <img src="https://streak-stats.demolab.com?user=joeinus134131&theme=cobalt&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joeinus134131&theme=cobalt&hide_border=true" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeinus134131&theme=cobalt&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeinus134131&theme=cobalt&hide_border=true&area=true" />
 </div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! 😊</i>
-</p>
+<p align="center"><i>Thanks for visiting my profile!</i></p>
